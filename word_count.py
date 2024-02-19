@@ -4,6 +4,7 @@ import glob
 
 import pandas as pd
 
+import string
 
 def load_input(input_directory):
     """Load text files in 'input_directory/'"""
